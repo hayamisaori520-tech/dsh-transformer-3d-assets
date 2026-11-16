@@ -1,4 +1,6 @@
-﻿# Transformer 3D Lab captures
+# Transformer 3D Lab captures
+
+English · [简体中文](README.zh-CN.md)
 
 Sanitised before/after captures used as visual evidence for the DeepSeek Harness plugin PR.
 
